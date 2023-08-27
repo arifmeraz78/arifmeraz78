@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <p style="text-align: left;color:blue"> I am aligned left. </p>
+   <p style="text-align: center;color:red"> I am aligned center. </p>
+   <p style="text-align: right;color:yellow"> I am aligned right. </p>
+</body>
+</html>
