@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <b>this is a bolded text.</b>
+   <br />
+   <i>this is an italic text</i>
+   <br />
+   <u>this is an underlined text.</u>
+   <br />
+   <code>this is a code text.</code>
+   <br />
+   <tt>this is a typewriter text.</tt>
+   <br />
+   <small>this is a small text.</small>
+   <br />
+   <em>this is an emphasized text.</em>
+   <br />
+   <strong>this is a strong text.</strong>
+   <br />
+   <mark>this is a marked text.</mark>
+   <br />
+   <q>this is an enquoted text.</q>
+   <br />
+   <s>this is a striked text.</s>
+   <br />
+   <s><b><i><u><mark><q>this is a mixed formatted text. </q></mark></u></i></b></s>
+</body>
+</html>
