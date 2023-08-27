@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <p> 
+   	<span style="font-size: 30px">this</span> <span style="color: blue">is a paragraph</span> <span style="color: red">and these words are styled</span> <span style="color: green">differently using</span> <span style="color: gold"> the span element.</span>
+   </p>
+</body>
+</html>
