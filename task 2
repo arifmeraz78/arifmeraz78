@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Try It Yourself </title>
+</head>
+<body style="background-color:gold">
+  <h1 style="background-color:white">
+     <center>this is heading</center></h1>
+  <h2 style="background-color:red">
+     <center>this is heading</center></h2>
+  <h3 style="background-color:pink">
+     <center>this is heading</center></h3>
+  <h4 style="background-color:green">
+     <center>this is heading </center></h4>
+  <h5 style="background-color:aqua">
+     <center>this is heading</center></h5>
+  <h6 style="background-color:blue">
+     <center>this is heading </center></h6>
+ </body>
+</html> 
