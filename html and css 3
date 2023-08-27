@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Try It Yourself </title>
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+	<h1 style=color:red>Meraz Arif</h1>
+	<center><img src="images/example-image.jpg" alt="meraz" /></center>
+	<p style="text-align:right">_meraz arif </p>
+</body>
+</html>
