@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title> Try It Yourself </title>
+</head>
+<body>
+   <p style="color: blue"> My color is blue. </p>
+   <p style="color: red"> My color is red. </p>
+   <p style="color: green"> My color is green. </p>
+   <p style="color: yellow"> My color is yellow. </p>
+   <p style="color: pink"> My color is pink. </p>
+</body>
+</html>
