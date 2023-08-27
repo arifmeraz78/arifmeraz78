@@ -1,0 +1,74 @@
+<html>
+<head>
+<title>html form</title >
+<style>
+    h2{
+        color:green
+    }
+</style>
+</head>
+<body>
+
+<center><h2>student registrations </h1></center>
+<p style ="font-size:20px;color:red">
+  Neme :
+  <br/><input type="text"required>
+</p>
+<p style="font-size:18px;color:red">
+    Roll no :
+ <br/><input type="text">
+</p>
+<p style="font-size:18px;color:red">
+  Enrollment no :
+ <br/> <input type="text" required>
+</p>
+<p style="font-size:18px;color:red">
+  phone no :
+ <br/><input type="number" required>
+</p>
+<p style="font-size:18px;color:red">
+  e-mail I'd :
+  <br/><input type="e-mail" required>
+</p>
+<input type="radio" name="gender"      
+   value="Male" id="male" />
+ <label for="male"> Male </label>
+   <br/>
+<input type="radio" name="gender" 
+   value="Female" id="female" />
+ <label for="female">Female</label>
+   <br/>
+   <input type="radio" name="gender" 
+   value="Other" id="Other" />
+ <label for="Other">Other</label>
+   <br/>
+<h3 style="color:blue">
+<center>Branch selection</cnter>
+</h3>
+<input type="radio" name="Branch" 
+   value="IT" id="Informetion technology"/>
+ <label for="cse">Information technology</label>
+   <br/>
+   <input type="radio" name="Branch" 
+   value="cse" id="cse" />
+ <label for="cse">computer science</label>
+   <br/>
+   <input type="radio" name="Branch" 
+   value="ce" id="ce" />
+ <label for="ce">civil engineering</label>
+   <br/>
+   <input type="radio" name="Branch" 
+   value="Eec" id="Eec" />
+ <label for="Eec">Elecric&electrical communication</label>
+ 
+ 
+   <br/>
+   <br/>
+   <br/>
+ <center>
+   <input type="Submit" />
+ </center>
+ 
+ 
+</body>
+</html>
