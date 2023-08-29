@@ -1,0 +1,445 @@
+<html>
+
+<head>
+
+<title>RESTAURANT WEBSITE</title>
+
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+
+</head>
+
+<body>
+
+
+
+<div class="main">
+
+
+
+<!----- Start Header ------>
+
+<div class="header">
+
+
+
+	<div class="header-left"><img src="images/logo.png" width="340" height="150" alt="Logo"></div>
+
+    <div class="header-right">
+
+    	<ul>
+
+        	<li><a href="#!">Home</a></li>
+
+            <li><a href="#!">About</a></li>
+
+            <li><a href="#!">Menu Card</a></li>
+
+            <li><a href="#!">Reservation</a></li>
+
+            <li><a href="#!">Review</a></li>
+
+            <li><a href="#!">Contact</a></li>
+
+        </ul>
+
+    </div>
+
+    
+
+    <div class="header-bottom">
+
+    	<div class="header-font">Eat healthy food &amp; Enjoy your life.</div>
+
+        
+
+        <div class="p50_0" align="center">
+
+        <a href="#!" class="header-btns">BOOK A TABLE</a>&nbsp; &nbsp; &nbsp; &nbsp;
+
+        <a href="#!" class="header-btns">SEE THE MENU </a>
+
+        </div>
+
+    </div>
+
+    
+
+</div>
+
+<!----- End Header ------>
+
+
+
+<!----- Start Content ------>
+
+<div class="content-part-1">
+
+	<div class="content-part-1-left">
+
+    	<div class="content-part-1-left-h3"> </div>
+
+        <div class="content-part-1-left-p">
+
+            A good restaurant sets a high standard for its food quality and ensures that guests receive the same quality
+
+            with every meal. Serving quality food can earn your restaurant a good reputation and compel your guests to
+
+            return for repeat visits.
+
+
+
+        </div>
+
+        <div class="p20_0"><a href="#!" class="content-part-1-left-btn">Read More.</a></div>
+
+    </div>
+
+    <div class="content-part-1-right" align="center">
+
+    	<img src="images/content-part-1.jpg" width="340" height="434" alt="Restaurant">
+
+    </div>
+
+</div>
+
+
+
+<div class="content-part-2">
+
+	<div class="content-part-2-inner">
+
+    	<div class="interior-font">Restaurant Interior</div>
+
+    	<div class="content-interior">
+
+   	    	<img src="images/interior.jpg" width="340" height="200">
+
+            <div class="content-interior-h3">Non AC Hall</div>
+
+            <div class="content-interior-p"></div>
+
+        </div>
+
+        <div class="content-interior">
+
+   	    	<img src="images/interior-2.jpg" width="340" height="200"> 
+
+            <div class="content-interior-h3">Central AC Hall</div>
+
+            <div class="content-interior-p"></div>
+
+        </div>
+
+    </div>
+
+</div>  
+
+
+
+<div class="content-part-3">
+
+	<div class="content-part-3-left"><img src="images/menu/01.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Chicken Biryani</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>55.00/-</i></div>
+
+        
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+    <div class="content-part-3-left"><img src="images/menu/02.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Fried Fish</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>150.00/-</i></div>
+
+       
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+            
+
+    <div class="content-part-3-left"><img src="images/menu/03.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Mandi</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>250.00/-</i></div>
+
+       
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+    <div class="content-part-3-left"><img src="images/menu/04.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Paneer Tikka</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>90.00/-</i></div>
+
+      
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+            
+
+    <div class="content-part-3-left"><img src="images/menu/05.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Burger</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>70.00/-</i></div>
+
+       
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+    <div class="content-part-3-left"><img src="images/menu/06.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Shawarma Chicken</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>200.00/-</i></div>
+
+      
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+            
+
+    <div class="content-part-3-left"><img src="images/menu/07.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Aalu Paranthe</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>70.00/-</i></div>
+
+      
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+    <div class="content-part-3-left"><img src="images/menu/08.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Egg Roll</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>60.00/-</i></div>
+
+       
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+            
+
+    <div class="content-part-3-left"><img src="images/menu/09.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Grill Chicken</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>455.00/-</i></div>
+
+        
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+    <div class="content-part-3-left"><img src="images/menu/10.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Samosa With Chatney</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>80.00/-</i></div>
+
+     
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+            
+
+    <div class="content-part-3-left"><img src="images/menu/11.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Noodels</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>100.00/-</i></div>
+
+      
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+    <div class="content-part-3-left"><img src="images/menu/12.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">French Fries</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>155.00/-</i></div>
+
+      
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+            
+
+    <div class="content-part-3-left"><img src="images/menu/13.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Fried Rice</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>99.00/-</i></div>
+
+       
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+    <div class="content-part-3-left"><img src="images/menu/14.jpg" width="230" height="155"></div>
+
+    <div class="content-part-3-right">
+
+        <div class="content-part-3-right-h4">Pizza</div>
+
+        <div class="price">Price : <i class="green"><span class="fa fa-inr"></span>399.00/-</i></div>
+
+      
+
+        <div class="margin_p3"><a href="#!" class="order-now">Order Now</a></div>
+
+    </div>
+
+</div>
+
+<!----- End Content ------>
+
+
+
+<!------ Start Footer ------>
+
+<div class="footer">
+
+	<div class="footer-parts">
+
+    	<div class="footer-parts-h3">About Restaurant</div>
+
+        <div class="footer-parts-p">A good restaurant sets a high standard for its food
+
+             quality and ensures that guests receive the same quality
+
+             with every meal. Serving quality food can earn your restaurant a good 
+
+             reputation and compel your guests to return for repeat visits.
+
+       </div>
+
+    </div>
+
+    <div class="footer-parts">
+
+    	<div class="footer-parts-h3">Opening Hours</div>
+
+        <div class="footer-parts-p">
+
+        	Mon - Thu : 7:00 AM - 10:00 PM <br />
+
+            Friday : 7:00 AM - 11:00 PM <br />
+
+            Sat - Sun : 7:00 AM - 11:45 PM 
+
+        </div>
+
+    </div>
+
+    <div class="footer-parts">
+
+    	<div class="footer-parts-h3">Our Location</div>
+
+        <div class="footer-parts-p">
+
+        	Tolichowki Hyderabad,<br />
+
+            India 
+
+        </div>
+
+        <div class="footer-icons">
+
+        	<ul>
+
+            	<li><a href="#!"><i class="fa fa-facebook"></i></a></li>
+
+                <li><a href="#!"><i class="fa fa-twitter"></i></a></li>
+
+                <li><a href="#!"><i class="fa fa-linkedin"></i></a></li>
+
+                <li><a href="#!"><i class="fa fa-google-plus"></i></a></li>
+
+            </ul>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<div class="footer-bottom">
+
+	<div class="white">&copy; <script language="javascript" type="text/javascript">document.write(new Date().getFullYear());</script>. All rights reserved by <a href="http://www.freetimelearning.com/" target="_blank">Free Time Learn</a>.</div>
+
+</div>
+
+<!------ End Footer ------->
+
+
+
+<div class="clearfix"></div>
+
+</div>
+
+
+
+</body>
+
+</html>
